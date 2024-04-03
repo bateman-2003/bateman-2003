@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bateman-2003
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently learning Java script 
+
 
 
 <!---
